@@ -1,0 +1,10 @@
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Delete\Delete\bin\Debug\Delete.exe
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Delete\Delete\bin\Debug\Delete.pdb
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Delete\Delete\bin\Debug\Delete.xml
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Delete\Delete\obj\x86\Debug\Delete.Resources.resources
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Delete\Delete\obj\x86\Debug\Delete.vbproj.GenerateResource.Cache
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Delete\Delete\obj\x86\Debug\Delete.exe
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Delete\Delete\obj\x86\Debug\Delete.xml
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Delete\Delete\obj\x86\Debug\Delete.pdb
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Delete\Delete\obj\x86\Debug\Delete.Main.resources
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Delete\Delete\obj\x86\Debug\Delete.Delete.resources
